@@ -52,11 +52,11 @@ Track expenses, manage budgets, and take control of your money — all in one li
 ### How to Run
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/expense-tracker.git
+   git clone https://github.com/isrlchigozie/expense-manager--CLI.git
    cd expense-tracker
 
 2. Run the tracker:
-
+   
 python main.py
 
 
