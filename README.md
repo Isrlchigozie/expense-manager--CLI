@@ -53,7 +53,7 @@ Track expenses, manage budgets, and take control of your money — all in one li
 1. Clone the repo:
    ```bash
    git clone https://github.com/isrlchigozie/finance-manager--CLI.git
-   cd finance-manager
+   cd finance-manager-CLI
 
 2. Run the manager:
    
