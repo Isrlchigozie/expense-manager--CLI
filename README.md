@@ -1,6 +1,6 @@
 # expense-manager--CLI
 
- # Li.Corp Expense Tracker
+ # Li.Corp Expense Manager 
 
 **A sleek, command-line powered personal finance tool built with Python.**  
 Track expenses, manage budgets, and take control of your money — all in one lightweight, offline CLI app.
@@ -53,9 +53,9 @@ Track expenses, manage budgets, and take control of your money — all in one li
 1. Clone the repo:
    ```bash
    git clone https://github.com/isrlchigozie/expense-manager--CLI.git
-   cd expense-tracker
+   cd expense-manager
 
-2. Run the tracker:
+2. Run the manager:
    
 python main.py
 
